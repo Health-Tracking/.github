@@ -1,7 +1,7 @@
 # 환자 모니터링 시스템
 
 ## 관련 링크
-[웹페이지 링크](https://mellifluous-frangollo-878d87.netlify.app/)
+[웹페이지 링크](https://main--health-tracking-help.netlify.app/)
 
 [Web Repository](https://github.com/Health-Tracking/Web)
 
